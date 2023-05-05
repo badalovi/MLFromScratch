@@ -6,10 +6,8 @@ This repo consists of three elements
 <br> 3. *README.md:* Relatively extensive explanations of implementation
 
 You will find explanation of the steps I have implemented in Python in a detailed form also providing
-few concise and required mathematical concepts,
-<br>formulas and their components. Main goal of this text is implementation itself. 
-Before diving into code it is better to have a very
-<br>short intro to Linear Regression and Gradient Descent. I will provide relevant
+few concise and required mathematical concepts,formulas and their components. Main goal of this text is implementation itself. 
+Before diving into code it is better to have a very short intro to Linear Regression and Gradient Descent. I will provide relevant
 links for further reading.
 <br></br>
 
